@@ -2,17 +2,17 @@
 <slideshow>
   <slide>
     <id>1</id>
-    <image>https://i.pinimg.com/736x/b9/bd/2b/b9bd2b7f02fb44e9cb96ef24055a01f1.jpg</image>
+    <image>https://i.pinimg.com/736x/b9/a7/18/b9a718df45a15a40810da7b3c7e8cd07.jpg</image>
     <caption>Caption Text</caption>
   </slide>
   <slide>
     <id>2</id>
-    <image>https://i.pinimg.com/736x/14/11/17/14111766d3d46e4cc54a4b588325e31c.jpg</image>
+    <image>https://i.pinimg.com/736x/62/b3/f2/62b3f2102b3c4a62b9f4318c91171e79.jpg</image>
     <caption>Caption Two</caption>
   </slide>
   <slide>
     <id>3</id>
-    <image>https://i.pinimg.com/736x/26/1d/46/261d46d1ecba0dddbf3650ca3711b180.jpg</image>
+    <image>https://i.pinimg.com/736x/e5/3a/3d/e53a3d48d03e82c5b9029407da2e0861.jpg</image>
     <caption>Caption Three</caption>
   </slide>
 </slideshow>
