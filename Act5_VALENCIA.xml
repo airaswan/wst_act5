@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide>
+    <id>1</id>
+    <image>https://i.pinimg.com/736x/b9/bd/2b/b9bd2b7f02fb44e9cb96ef24055a01f1.jpg</image>
+    <caption>Caption Text</caption>
+  </slide>
+  <slide>
+    <id>2</id>
+    <image>img_snow_wide.jpg</image>
+    <caption>Caption Two</caption>
+  </slide>
+  <slide>
+    <id>3</id>
+    <image>img_mountains_wide.jpg</image>
+    <caption>Caption Three</caption>
+  </slide>
+</slideshow>
