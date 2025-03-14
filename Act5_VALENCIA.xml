@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide>
+    <id>1</id>
+    <image> https://i.pinimg.com/736x/c4/e9/83/c4e9831d5f396f3d271d58ffb5e66651.jpg
+    </image>
+    <caption>Cute Pink Aesthetic</caption>
+  </slide>
+  <slide>
+    <id>2</id>
+    <image>https://i.pinimg.com/736x/c9/93/57/c99357fa2fd9c9c98c97338c083f5007.jpg
+      
+    </image>
+    <caption>Cute Pink Aesthetic</caption>
+  </slide>
+  <slide>
+    <id>3</id>
+    <image>
+      https://i.pinimg.com/736x/62/2f/8f/622f8fda708ae91f4fd97f37d41e9f1f.jpg
+    </image>
+    <caption>Cute Pink Aesthetic</caption>
+  </slide>
+</slideshow>
